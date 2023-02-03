@@ -1,10 +1,13 @@
-# Group 37 - {Short snappy Title of your project}
-
-- Your title can change over time.
+# Group 37 - Students Adaptability Level in Online Education
 
 ## Milestones
 
-Details for Milestone are available on Canvas (left sidebar, Course Project).
+- [x] Milestone 1
+- [ ] Milestone 2
+- [ ] Milestone 3
+- [ ] Milestone 4
+- [ ] Milestone 5
+- [ ] Milestone 6
 
 ## Describe your topic/interest in about 150-200 words
 
@@ -16,9 +19,9 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- **Darvesh Singh Dhillon:** I am a Data Science Minor and a Psychology Major so knowing how online education affected people is really interesting and right up my ally.
+- **Shawn Goh:** one sentence about you!
+- **Ahmad Firdaus Azri:** one sentence about you!
 
 ## Images
 
