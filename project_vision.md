@@ -1,6 +1,6 @@
 # Project Vision
 
-> Creating a project which our beginner selves will wonder how we come up with such idea and skills.
+> Our vision is to create an analysis of our chosen dataset to the best of our abilities so that we may use the skills we gain and apply them in our future careers
 
 ## Contracted Grade
 
