@@ -20,7 +20,7 @@ I am most interested in how the education level and age of the person affects th
 
 ## Describe your dataset in about 150-200 words
 
-This dataset includes data from Bangladesh and explores the adaptability level of students based on their Age, Gender, Education Level, Institution Type, IT Student, Location in Town, Load-shedding, Financial Condition, Internet Type, Network Type, Class Duration, Self LMS,  and Device being used for the education. 
+This dataset includes data from Bangladesh and explores the adaptability level of students based on their Age, Gender, Education Level, Institution Type, IT Student, Location in Town, Load-shedding, Financial Condition, Internet Type, Network Type, Class Duration, Self LMS,  and Device being used for the education.
 
 We will be using this dataset to inspect how these variables affect the adaptability level of students both individually and as a whole.
 
