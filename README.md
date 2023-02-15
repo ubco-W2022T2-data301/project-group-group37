@@ -28,8 +28,7 @@ We will be using this dataset to inspect how these variables affect the adaptabi
 
 - **Darvesh Singh Dhillon:** I am a Data Science Minor and a Psychology Major so knowing how online education affected people is really interesting and right up my ally.
 - **Shawn Goh:** one sentence about you!
-- **Ahmad Firdaus Azri:** one sentence about you!
-
+- **Ahmad Firdaus Azri:** A Beginner Data Science student who hopes his first project will be beneficial for his future adventures.
 ## Images
 
 {You should use this area to add a screenshot of an interesting plot, or of your dashboard}
