@@ -29,7 +29,7 @@ This dataset includes data collected between December 10, 2020, and February 5, 
 
 {You should use this area to add a screenshot of an interesting plot, or of your dashboard}
 
-<img src ="images/daffodil logo.png" width="500px">
+<img src ="images/test.png" width="200px">
 
 ## References
 
