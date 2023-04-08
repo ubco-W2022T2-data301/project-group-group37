@@ -1,4 +1,4 @@
-def convertAgeToInt(x):
+def convert_age_to_int(x):
     """Converts the age range (x) to an integer.
 
     Args:
