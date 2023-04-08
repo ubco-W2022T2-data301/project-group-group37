@@ -1,4 +1,12 @@
 def convertAgeToInt(x):
+    """Converts the age range (x) to an integer.
+
+    Args:
+        x (String): Age range to be converted
+
+    Returns:
+        int: returns an integer of the first age in the age range
+    """
     if x == "1-5":
         return 1
     elif x == "6-10":
