@@ -1,0 +1,1206 @@
+,Internet Type,Network Type,Device,Adaptivity Level,Combination
+0,Wifi,4G,Tab,Moderate,W + T
+1,Mobile Data,4G,Mobile,Moderate,MD + M
+2,Wifi,4G,Mobile,Moderate,W + M
+3,Mobile Data,4G,Mobile,Moderate,MD + M
+4,Mobile Data,3G,Mobile,Low,MD + M
+5,Mobile Data,3G,Mobile,Low,MD + M
+6,Wifi,4G,Mobile,Low,W + M
+7,Wifi,4G,Mobile,Moderate,W + M
+8,Wifi,4G,Mobile,Low,W + M
+9,Mobile Data,3G,Mobile,Moderate,MD + M
+10,Wifi,4G,Mobile,Low,W + M
+11,Wifi,4G,Mobile,Low,W + M
+12,Mobile Data,3G,Mobile,Moderate,MD + M
+13,Wifi,4G,Mobile,Low,W + M
+14,Mobile Data,3G,Mobile,Moderate,MD + M
+15,Wifi,4G,Mobile,Low,W + M
+16,Mobile Data,4G,Computer,Low,MD + C
+17,Wifi,4G,Mobile,Low,W + M
+18,Wifi,4G,Mobile,Low,W + M
+19,Wifi,4G,Mobile,Moderate,W + M
+20,Wifi,4G,Mobile,High,W + M
+21,Mobile Data,4G,Mobile,Low,MD + M
+22,Mobile Data,3G,Mobile,Low,MD + M
+23,Mobile Data,3G,Mobile,Moderate,MD + M
+24,Wifi,4G,Mobile,Moderate,W + M
+25,Mobile Data,4G,Mobile,Moderate,MD + M
+26,Mobile Data,4G,Mobile,Moderate,MD + M
+27,Wifi,4G,Computer,Moderate,W + C
+28,Mobile Data,4G,Mobile,Moderate,MD + M
+29,Wifi,4G,Mobile,Moderate,W + M
+30,Mobile Data,3G,Mobile,Moderate,MD + M
+31,Mobile Data,4G,Mobile,Low,MD + M
+32,Mobile Data,4G,Mobile,Moderate,MD + M
+33,Wifi,4G,Mobile,Moderate,W + M
+34,Mobile Data,3G,Mobile,Low,MD + M
+35,Wifi,3G,Mobile,Moderate,W + M
+36,Mobile Data,4G,Mobile,Moderate,MD + M
+37,Mobile Data,3G,Mobile,High,MD + M
+38,Mobile Data,4G,Mobile,Low,MD + M
+39,Wifi,3G,Mobile,Low,W + M
+40,Wifi,4G,Computer,Moderate,W + C
+41,Wifi,4G,Mobile,Moderate,W + M
+42,Mobile Data,3G,Mobile,Low,MD + M
+43,Mobile Data,4G,Mobile,Moderate,MD + M
+44,Wifi,3G,Computer,Low,W + C
+45,Wifi,4G,Computer,Moderate,W + C
+46,Mobile Data,4G,Mobile,Moderate,MD + M
+47,Mobile Data,3G,Mobile,Moderate,MD + M
+48,Mobile Data,4G,Mobile,Moderate,MD + M
+49,Wifi,3G,Computer,Low,W + C
+50,Wifi,4G,Mobile,Low,W + M
+51,Mobile Data,4G,Mobile,Moderate,MD + M
+52,Mobile Data,3G,Mobile,Moderate,MD + M
+53,Mobile Data,4G,Mobile,Moderate,MD + M
+54,Mobile Data,4G,Mobile,Low,MD + M
+55,Mobile Data,4G,Mobile,Moderate,MD + M
+56,Mobile Data,4G,Mobile,Low,MD + M
+57,Mobile Data,3G,Mobile,Low,MD + M
+58,Mobile Data,3G,Mobile,Low,MD + M
+59,Mobile Data,3G,Mobile,Low,MD + M
+60,Wifi,4G,Mobile,Moderate,W + M
+61,Mobile Data,4G,Mobile,Low,MD + M
+62,Mobile Data,3G,Mobile,Moderate,MD + M
+63,Mobile Data,4G,Mobile,Moderate,MD + M
+64,Wifi,4G,Mobile,Low,W + M
+65,Mobile Data,4G,Mobile,High,MD + M
+66,Mobile Data,3G,Mobile,Moderate,MD + M
+67,Mobile Data,3G,Mobile,Low,MD + M
+68,Wifi,4G,Mobile,Low,W + M
+69,Mobile Data,4G,Mobile,Moderate,MD + M
+70,Mobile Data,3G,Mobile,Low,MD + M
+71,Mobile Data,4G,Mobile,Low,MD + M
+72,Mobile Data,4G,Mobile,Low,MD + M
+73,Mobile Data,3G,Mobile,Low,MD + M
+74,Mobile Data,4G,Mobile,Moderate,MD + M
+75,Mobile Data,2G,Mobile,Low,MD + M
+76,Mobile Data,3G,Mobile,Moderate,MD + M
+77,Mobile Data,4G,Mobile,Low,MD + M
+78,Mobile Data,4G,Mobile,Moderate,MD + M
+79,Mobile Data,4G,Mobile,Moderate,MD + M
+80,Mobile Data,3G,Mobile,Low,MD + M
+81,Mobile Data,4G,Mobile,Moderate,MD + M
+82,Wifi,4G,Computer,Moderate,W + C
+83,Mobile Data,3G,Mobile,Low,MD + M
+84,Mobile Data,4G,Mobile,Moderate,MD + M
+85,Mobile Data,3G,Mobile,Moderate,MD + M
+86,Mobile Data,4G,Mobile,High,MD + M
+87,Wifi,4G,Mobile,Moderate,W + M
+88,Wifi,4G,Mobile,Moderate,W + M
+89,Mobile Data,4G,Mobile,Low,MD + M
+90,Mobile Data,4G,Mobile,Moderate,MD + M
+91,Wifi,4G,Computer,Moderate,W + C
+92,Wifi,3G,Computer,Moderate,W + C
+93,Mobile Data,3G,Mobile,Low,MD + M
+94,Mobile Data,4G,Mobile,Moderate,MD + M
+95,Wifi,4G,Computer,Moderate,W + C
+96,Mobile Data,4G,Mobile,Moderate,MD + M
+97,Mobile Data,2G,Mobile,Low,MD + M
+98,Wifi,4G,Mobile,Moderate,W + M
+99,Wifi,4G,Mobile,Low,W + M
+100,Wifi,4G,Mobile,Low,W + M
+101,Wifi,4G,Computer,Moderate,W + C
+102,Mobile Data,3G,Mobile,Low,MD + M
+103,Mobile Data,4G,Mobile,Moderate,MD + M
+104,Wifi,4G,Mobile,Moderate,W + M
+105,Wifi,4G,Computer,Moderate,W + C
+106,Mobile Data,3G,Mobile,Moderate,MD + M
+107,Wifi,4G,Computer,Moderate,W + C
+108,Wifi,4G,Tab,Moderate,W + T
+109,Wifi,3G,Mobile,High,W + M
+110,Mobile Data,4G,Mobile,Low,MD + M
+111,Wifi,4G,Mobile,Low,W + M
+112,Mobile Data,3G,Mobile,Low,MD + M
+113,Mobile Data,3G,Mobile,Moderate,MD + M
+114,Wifi,4G,Mobile,Moderate,W + M
+115,Wifi,4G,Computer,Moderate,W + C
+116,Wifi,4G,Computer,Low,W + C
+117,Wifi,4G,Computer,Low,W + C
+118,Mobile Data,3G,Mobile,Moderate,MD + M
+119,Mobile Data,3G,Mobile,Moderate,MD + M
+120,Wifi,4G,Computer,Moderate,W + C
+121,Wifi,4G,Mobile,Low,W + M
+122,Mobile Data,4G,Mobile,Moderate,MD + M
+123,Mobile Data,3G,Mobile,Moderate,MD + M
+124,Wifi,4G,Computer,Moderate,W + C
+125,Mobile Data,3G,Mobile,Low,MD + M
+126,Mobile Data,4G,Mobile,Low,MD + M
+127,Wifi,4G,Mobile,Moderate,W + M
+128,Wifi,4G,Mobile,Low,W + M
+129,Wifi,4G,Computer,High,W + C
+130,Wifi,3G,Mobile,Moderate,W + M
+131,Mobile Data,3G,Mobile,Low,MD + M
+132,Mobile Data,3G,Mobile,High,MD + M
+133,Mobile Data,4G,Mobile,Low,MD + M
+134,Mobile Data,3G,Mobile,Moderate,MD + M
+135,Wifi,4G,Computer,Low,W + C
+136,Mobile Data,3G,Mobile,Low,MD + M
+137,Mobile Data,4G,Mobile,Moderate,MD + M
+138,Mobile Data,4G,Mobile,Moderate,MD + M
+139,Mobile Data,4G,Mobile,Moderate,MD + M
+140,Mobile Data,3G,Mobile,Low,MD + M
+141,Mobile Data,3G,Mobile,Moderate,MD + M
+142,Mobile Data,3G,Mobile,Moderate,MD + M
+143,Mobile Data,3G,Mobile,Moderate,MD + M
+144,Mobile Data,3G,Mobile,Low,MD + M
+145,Wifi,4G,Computer,Moderate,W + C
+146,Wifi,3G,Computer,Moderate,W + C
+147,Wifi,4G,Mobile,Low,W + M
+148,Wifi,4G,Mobile,Low,W + M
+149,Mobile Data,2G,Mobile,Low,MD + M
+150,Mobile Data,4G,Mobile,Moderate,MD + M
+151,Wifi,4G,Mobile,Low,W + M
+152,Mobile Data,4G,Mobile,High,MD + M
+153,Wifi,4G,Mobile,Moderate,W + M
+154,Wifi,4G,Computer,Low,W + C
+155,Mobile Data,3G,Computer,Low,MD + C
+156,Mobile Data,4G,Mobile,Low,MD + M
+157,Wifi,4G,Computer,High,W + C
+158,Mobile Data,4G,Mobile,Moderate,MD + M
+159,Mobile Data,3G,Computer,Moderate,MD + C
+160,Wifi,3G,Mobile,Low,W + M
+161,Mobile Data,3G,Mobile,High,MD + M
+162,Mobile Data,4G,Mobile,Moderate,MD + M
+163,Mobile Data,3G,Mobile,Low,MD + M
+164,Mobile Data,4G,Mobile,Low,MD + M
+165,Mobile Data,4G,Mobile,Moderate,MD + M
+166,Mobile Data,3G,Mobile,Low,MD + M
+167,Mobile Data,4G,Mobile,High,MD + M
+168,Mobile Data,4G,Mobile,Moderate,MD + M
+169,Mobile Data,4G,Mobile,Low,MD + M
+170,Wifi,3G,Computer,Moderate,W + C
+171,Wifi,4G,Mobile,Low,W + M
+172,Wifi,4G,Mobile,Low,W + M
+173,Wifi,4G,Computer,High,W + C
+174,Mobile Data,4G,Mobile,Moderate,MD + M
+175,Wifi,4G,Computer,Low,W + C
+176,Wifi,3G,Mobile,Moderate,W + M
+177,Mobile Data,4G,Mobile,Low,MD + M
+178,Mobile Data,3G,Mobile,Low,MD + M
+179,Mobile Data,3G,Mobile,Low,MD + M
+180,Wifi,4G,Computer,Moderate,W + C
+181,Wifi,4G,Mobile,Low,W + M
+182,Wifi,4G,Mobile,Moderate,W + M
+183,Wifi,4G,Computer,Moderate,W + C
+184,Wifi,4G,Mobile,Low,W + M
+185,Mobile Data,3G,Mobile,Low,MD + M
+186,Mobile Data,3G,Mobile,Moderate,MD + M
+187,Mobile Data,4G,Mobile,Low,MD + M
+188,Mobile Data,4G,Mobile,Moderate,MD + M
+189,Wifi,4G,Tab,Moderate,W + T
+190,Wifi,4G,Mobile,Low,W + M
+191,Mobile Data,3G,Mobile,Moderate,MD + M
+192,Mobile Data,3G,Mobile,Moderate,MD + M
+193,Mobile Data,3G,Mobile,Low,MD + M
+194,Mobile Data,4G,Mobile,Low,MD + M
+195,Wifi,3G,Mobile,Low,W + M
+196,Mobile Data,4G,Mobile,Low,MD + M
+197,Mobile Data,4G,Mobile,Moderate,MD + M
+198,Mobile Data,3G,Mobile,Moderate,MD + M
+199,Wifi,3G,Mobile,Low,W + M
+200,Mobile Data,4G,Mobile,Low,MD + M
+201,Mobile Data,3G,Mobile,Low,MD + M
+202,Mobile Data,3G,Mobile,Low,MD + M
+203,Wifi,4G,Mobile,Moderate,W + M
+204,Mobile Data,3G,Mobile,Low,MD + M
+205,Wifi,4G,Mobile,High,W + M
+206,Wifi,4G,Computer,Moderate,W + C
+207,Mobile Data,3G,Mobile,Low,MD + M
+208,Wifi,4G,Mobile,Low,W + M
+209,Wifi,3G,Mobile,Low,W + M
+210,Mobile Data,2G,Mobile,Low,MD + M
+211,Mobile Data,4G,Mobile,High,MD + M
+212,Mobile Data,3G,Mobile,Low,MD + M
+213,Wifi,4G,Computer,Moderate,W + C
+214,Mobile Data,4G,Mobile,Moderate,MD + M
+215,Mobile Data,4G,Mobile,Moderate,MD + M
+216,Mobile Data,4G,Mobile,Moderate,MD + M
+217,Mobile Data,3G,Mobile,Low,MD + M
+218,Wifi,3G,Mobile,Low,W + M
+219,Mobile Data,3G,Mobile,Low,MD + M
+220,Wifi,3G,Computer,Moderate,W + C
+221,Mobile Data,4G,Mobile,Moderate,MD + M
+222,Mobile Data,3G,Mobile,Moderate,MD + M
+223,Mobile Data,3G,Mobile,Moderate,MD + M
+224,Wifi,4G,Mobile,Low,W + M
+225,Mobile Data,3G,Mobile,Moderate,MD + M
+226,Mobile Data,3G,Mobile,Moderate,MD + M
+227,Mobile Data,4G,Mobile,Low,MD + M
+228,Mobile Data,3G,Mobile,Moderate,MD + M
+229,Mobile Data,3G,Mobile,Moderate,MD + M
+230,Wifi,3G,Mobile,Moderate,W + M
+231,Wifi,4G,Mobile,Moderate,W + M
+232,Wifi,4G,Mobile,Low,W + M
+233,Wifi,4G,Mobile,High,W + M
+234,Wifi,4G,Computer,Moderate,W + C
+235,Mobile Data,3G,Mobile,Moderate,MD + M
+236,Wifi,4G,Computer,Moderate,W + C
+237,Mobile Data,4G,Mobile,Low,MD + M
+238,Wifi,2G,Mobile,Moderate,W + M
+239,Wifi,4G,Mobile,Low,W + M
+240,Mobile Data,4G,Mobile,Low,MD + M
+241,Mobile Data,4G,Mobile,Moderate,MD + M
+242,Wifi,4G,Mobile,Moderate,W + M
+243,Wifi,4G,Mobile,Moderate,W + M
+244,Mobile Data,3G,Mobile,Low,MD + M
+245,Wifi,4G,Mobile,Moderate,W + M
+246,Wifi,3G,Computer,Moderate,W + C
+247,Mobile Data,3G,Mobile,Low,MD + M
+248,Mobile Data,3G,Mobile,Moderate,MD + M
+249,Mobile Data,3G,Mobile,Moderate,MD + M
+250,Wifi,4G,Computer,Moderate,W + C
+251,Wifi,4G,Mobile,Low,W + M
+252,Wifi,4G,Mobile,Low,W + M
+253,Mobile Data,3G,Mobile,Low,MD + M
+254,Wifi,3G,Mobile,Moderate,W + M
+255,Mobile Data,3G,Mobile,Moderate,MD + M
+256,Wifi,4G,Mobile,Moderate,W + M
+257,Mobile Data,4G,Mobile,Moderate,MD + M
+258,Mobile Data,3G,Mobile,Low,MD + M
+259,Wifi,4G,Mobile,High,W + M
+260,Mobile Data,3G,Mobile,Low,MD + M
+261,Mobile Data,3G,Mobile,Low,MD + M
+262,Wifi,4G,Mobile,Moderate,W + M
+263,Mobile Data,4G,Mobile,Low,MD + M
+264,Wifi,4G,Mobile,Low,W + M
+265,Wifi,4G,Mobile,Moderate,W + M
+266,Wifi,4G,Mobile,Moderate,W + M
+267,Wifi,4G,Mobile,Low,W + M
+268,Wifi,4G,Mobile,Moderate,W + M
+269,Mobile Data,4G,Mobile,High,MD + M
+270,Mobile Data,4G,Mobile,Moderate,MD + M
+271,Wifi,4G,Mobile,Moderate,W + M
+272,Mobile Data,4G,Mobile,Moderate,MD + M
+273,Mobile Data,3G,Mobile,Moderate,MD + M
+274,Mobile Data,2G,Mobile,Low,MD + M
+275,Mobile Data,4G,Mobile,Moderate,MD + M
+276,Mobile Data,3G,Mobile,Low,MD + M
+277,Mobile Data,2G,Mobile,Low,MD + M
+278,Mobile Data,4G,Mobile,Low,MD + M
+279,Mobile Data,3G,Mobile,Low,MD + M
+280,Mobile Data,4G,Mobile,Low,MD + M
+281,Mobile Data,4G,Mobile,Low,MD + M
+282,Wifi,4G,Mobile,Low,W + M
+283,Wifi,4G,Computer,High,W + C
+284,Mobile Data,4G,Mobile,Moderate,MD + M
+285,Mobile Data,4G,Mobile,Low,MD + M
+286,Mobile Data,3G,Mobile,Moderate,MD + M
+287,Wifi,4G,Mobile,Low,W + M
+288,Wifi,4G,Mobile,Low,W + M
+289,Mobile Data,4G,Mobile,Moderate,MD + M
+290,Mobile Data,4G,Mobile,Moderate,MD + M
+291,Wifi,4G,Mobile,Moderate,W + M
+292,Mobile Data,4G,Mobile,Moderate,MD + M
+293,Mobile Data,4G,Mobile,Moderate,MD + M
+294,Mobile Data,4G,Mobile,Low,MD + M
+295,Mobile Data,4G,Mobile,Moderate,MD + M
+296,Wifi,4G,Tab,High,W + T
+297,Mobile Data,4G,Mobile,Moderate,MD + M
+298,Mobile Data,4G,Mobile,Moderate,MD + M
+299,Wifi,4G,Mobile,Moderate,W + M
+300,Wifi,4G,Computer,High,W + C
+301,Mobile Data,3G,Mobile,Moderate,MD + M
+302,Wifi,4G,Mobile,Low,W + M
+303,Mobile Data,4G,Mobile,Moderate,MD + M
+304,Mobile Data,4G,Mobile,Moderate,MD + M
+305,Wifi,4G,Computer,Low,W + C
+306,Wifi,4G,Tab,Moderate,W + T
+307,Mobile Data,3G,Mobile,Moderate,MD + M
+308,Wifi,4G,Tab,Moderate,W + T
+309,Mobile Data,3G,Mobile,Moderate,MD + M
+310,Mobile Data,4G,Mobile,Moderate,MD + M
+311,Wifi,4G,Mobile,Low,W + M
+312,Mobile Data,3G,Mobile,Moderate,MD + M
+313,Wifi,4G,Mobile,Moderate,W + M
+314,Wifi,4G,Mobile,Moderate,W + M
+315,Mobile Data,3G,Mobile,Low,MD + M
+316,Wifi,4G,Tab,Moderate,W + T
+317,Wifi,4G,Mobile,Low,W + M
+318,Wifi,4G,Mobile,Low,W + M
+319,Mobile Data,3G,Mobile,Low,MD + M
+320,Mobile Data,3G,Mobile,Moderate,MD + M
+321,Mobile Data,4G,Mobile,Low,MD + M
+322,Mobile Data,4G,Mobile,Moderate,MD + M
+323,Mobile Data,3G,Mobile,Low,MD + M
+324,Mobile Data,3G,Mobile,Low,MD + M
+325,Mobile Data,3G,Mobile,Moderate,MD + M
+326,Mobile Data,4G,Mobile,Moderate,MD + M
+327,Wifi,4G,Mobile,Moderate,W + M
+328,Mobile Data,4G,Mobile,Moderate,MD + M
+329,Mobile Data,3G,Mobile,Low,MD + M
+330,Mobile Data,3G,Mobile,Moderate,MD + M
+331,Wifi,3G,Mobile,Low,W + M
+332,Wifi,4G,Mobile,Low,W + M
+333,Mobile Data,3G,Mobile,Moderate,MD + M
+334,Wifi,4G,Mobile,Moderate,W + M
+335,Wifi,4G,Mobile,Moderate,W + M
+336,Mobile Data,4G,Mobile,Low,MD + M
+337,Wifi,4G,Mobile,Low,W + M
+338,Mobile Data,4G,Mobile,Moderate,MD + M
+339,Mobile Data,4G,Mobile,Low,MD + M
+340,Mobile Data,4G,Mobile,Moderate,MD + M
+341,Mobile Data,4G,Mobile,Moderate,MD + M
+342,Mobile Data,4G,Mobile,Moderate,MD + M
+343,Wifi,4G,Mobile,Moderate,W + M
+344,Wifi,3G,Computer,Low,W + C
+345,Mobile Data,3G,Mobile,Moderate,MD + M
+346,Mobile Data,4G,Mobile,Low,MD + M
+347,Wifi,4G,Mobile,Moderate,W + M
+348,Mobile Data,3G,Mobile,Low,MD + M
+349,Mobile Data,4G,Mobile,Moderate,MD + M
+350,Mobile Data,4G,Mobile,Moderate,MD + M
+351,Mobile Data,4G,Mobile,Low,MD + M
+352,Wifi,4G,Mobile,Moderate,W + M
+353,Wifi,4G,Computer,Moderate,W + C
+354,Mobile Data,4G,Mobile,Moderate,MD + M
+355,Wifi,4G,Mobile,Low,W + M
+356,Mobile Data,4G,Mobile,Moderate,MD + M
+357,Mobile Data,3G,Mobile,Moderate,MD + M
+358,Mobile Data,3G,Mobile,Moderate,MD + M
+359,Mobile Data,4G,Mobile,Moderate,MD + M
+360,Mobile Data,3G,Mobile,Moderate,MD + M
+361,Mobile Data,3G,Mobile,High,MD + M
+362,Wifi,4G,Computer,Low,W + C
+363,Mobile Data,4G,Mobile,Moderate,MD + M
+364,Mobile Data,3G,Mobile,Low,MD + M
+365,Wifi,4G,Computer,High,W + C
+366,Mobile Data,3G,Mobile,Low,MD + M
+367,Mobile Data,3G,Mobile,Moderate,MD + M
+368,Wifi,3G,Mobile,Moderate,W + M
+369,Wifi,4G,Mobile,Low,W + M
+370,Wifi,4G,Mobile,Moderate,W + M
+371,Mobile Data,3G,Mobile,Moderate,MD + M
+372,Wifi,4G,Mobile,Low,W + M
+373,Wifi,3G,Mobile,Moderate,W + M
+374,Mobile Data,4G,Mobile,Moderate,MD + M
+375,Mobile Data,3G,Mobile,Low,MD + M
+376,Mobile Data,3G,Mobile,Low,MD + M
+377,Mobile Data,3G,Mobile,Moderate,MD + M
+378,Mobile Data,4G,Mobile,Moderate,MD + M
+379,Wifi,4G,Mobile,Low,W + M
+380,Wifi,4G,Mobile,Low,W + M
+381,Mobile Data,4G,Mobile,Moderate,MD + M
+382,Mobile Data,3G,Mobile,Low,MD + M
+383,Wifi,4G,Computer,Moderate,W + C
+384,Wifi,3G,Mobile,Moderate,W + M
+385,Mobile Data,3G,Mobile,Moderate,MD + M
+386,Mobile Data,3G,Mobile,Moderate,MD + M
+387,Wifi,4G,Mobile,Moderate,W + M
+388,Mobile Data,3G,Computer,Moderate,MD + C
+389,Mobile Data,3G,Mobile,Low,MD + M
+390,Wifi,4G,Mobile,High,W + M
+391,Mobile Data,4G,Mobile,Moderate,MD + M
+392,Wifi,4G,Mobile,Low,W + M
+393,Mobile Data,4G,Mobile,Low,MD + M
+394,Wifi,4G,Computer,Low,W + C
+395,Mobile Data,3G,Mobile,Low,MD + M
+396,Wifi,4G,Mobile,Low,W + M
+397,Wifi,4G,Mobile,Low,W + M
+398,Wifi,4G,Computer,High,W + C
+399,Wifi,4G,Mobile,Low,W + M
+400,Wifi,4G,Mobile,Moderate,W + M
+401,Wifi,3G,Mobile,Moderate,W + M
+402,Wifi,4G,Computer,Low,W + C
+403,Wifi,4G,Mobile,Moderate,W + M
+404,Mobile Data,4G,Mobile,Low,MD + M
+405,Mobile Data,4G,Mobile,Low,MD + M
+406,Wifi,4G,Computer,High,W + C
+407,Mobile Data,4G,Mobile,Moderate,MD + M
+408,Mobile Data,4G,Mobile,Moderate,MD + M
+409,Wifi,4G,Mobile,High,W + M
+410,Wifi,4G,Computer,High,W + C
+411,Wifi,4G,Computer,High,W + C
+412,Wifi,4G,Tab,Moderate,W + T
+413,Wifi,4G,Mobile,Low,W + M
+414,Mobile Data,4G,Mobile,Moderate,MD + M
+415,Wifi,4G,Computer,Low,W + C
+416,Mobile Data,3G,Mobile,Low,MD + M
+417,Wifi,3G,Mobile,Moderate,W + M
+418,Wifi,3G,Computer,Moderate,W + C
+419,Wifi,4G,Mobile,Low,W + M
+420,Mobile Data,3G,Mobile,Moderate,MD + M
+421,Mobile Data,3G,Mobile,Moderate,MD + M
+422,Wifi,4G,Computer,Moderate,W + C
+423,Mobile Data,3G,Mobile,Low,MD + M
+424,Wifi,4G,Mobile,Low,W + M
+425,Mobile Data,4G,Mobile,Low,MD + M
+426,Mobile Data,3G,Mobile,Moderate,MD + M
+427,Wifi,4G,Computer,High,W + C
+428,Wifi,4G,Computer,Low,W + C
+429,Mobile Data,3G,Mobile,Low,MD + M
+430,Mobile Data,4G,Mobile,Moderate,MD + M
+431,Mobile Data,4G,Computer,Low,MD + C
+432,Mobile Data,4G,Mobile,High,MD + M
+433,Mobile Data,4G,Mobile,Low,MD + M
+434,Mobile Data,3G,Mobile,Moderate,MD + M
+435,Wifi,4G,Mobile,Low,W + M
+436,Mobile Data,4G,Mobile,Low,MD + M
+437,Wifi,4G,Tab,Moderate,W + T
+438,Wifi,4G,Mobile,Low,W + M
+439,Mobile Data,3G,Mobile,Moderate,MD + M
+440,Mobile Data,3G,Mobile,Moderate,MD + M
+441,Wifi,4G,Mobile,Moderate,W + M
+442,Wifi,4G,Mobile,Low,W + M
+443,Mobile Data,4G,Mobile,Moderate,MD + M
+444,Mobile Data,3G,Mobile,Low,MD + M
+445,Mobile Data,4G,Mobile,Moderate,MD + M
+446,Mobile Data,4G,Mobile,Low,MD + M
+447,Wifi,3G,Mobile,High,W + M
+448,Wifi,4G,Mobile,Low,W + M
+449,Mobile Data,3G,Mobile,Moderate,MD + M
+450,Mobile Data,4G,Mobile,Moderate,MD + M
+451,Wifi,4G,Computer,High,W + C
+452,Mobile Data,4G,Mobile,Low,MD + M
+453,Mobile Data,3G,Mobile,Low,MD + M
+454,Mobile Data,4G,Mobile,Moderate,MD + M
+455,Mobile Data,4G,Mobile,Low,MD + M
+456,Mobile Data,4G,Mobile,Moderate,MD + M
+457,Wifi,4G,Mobile,Low,W + M
+458,Mobile Data,3G,Mobile,Low,MD + M
+459,Wifi,3G,Computer,Moderate,W + C
+460,Mobile Data,4G,Mobile,Moderate,MD + M
+461,Mobile Data,4G,Mobile,High,MD + M
+462,Mobile Data,3G,Mobile,High,MD + M
+463,Mobile Data,4G,Mobile,High,MD + M
+464,Wifi,3G,Mobile,High,W + M
+465,Mobile Data,3G,Computer,Moderate,MD + C
+466,Mobile Data,3G,Mobile,Low,MD + M
+467,Mobile Data,3G,Mobile,Low,MD + M
+468,Wifi,4G,Mobile,Moderate,W + M
+469,Wifi,3G,Mobile,Low,W + M
+470,Mobile Data,3G,Mobile,Moderate,MD + M
+471,Mobile Data,3G,Mobile,Low,MD + M
+472,Mobile Data,3G,Mobile,Low,MD + M
+473,Wifi,4G,Mobile,Moderate,W + M
+474,Mobile Data,3G,Mobile,Moderate,MD + M
+475,Wifi,4G,Mobile,Low,W + M
+476,Mobile Data,4G,Mobile,High,MD + M
+477,Mobile Data,4G,Mobile,Moderate,MD + M
+478,Mobile Data,3G,Mobile,Low,MD + M
+479,Wifi,4G,Mobile,Moderate,W + M
+480,Wifi,3G,Mobile,Moderate,W + M
+481,Mobile Data,4G,Mobile,Low,MD + M
+482,Mobile Data,3G,Mobile,Low,MD + M
+483,Mobile Data,4G,Mobile,Low,MD + M
+484,Mobile Data,4G,Mobile,Moderate,MD + M
+485,Wifi,4G,Mobile,Moderate,W + M
+486,Wifi,4G,Computer,Moderate,W + C
+487,Mobile Data,3G,Computer,Moderate,MD + C
+488,Wifi,4G,Mobile,Low,W + M
+489,Wifi,3G,Mobile,Moderate,W + M
+490,Wifi,4G,Computer,High,W + C
+491,Mobile Data,3G,Mobile,Moderate,MD + M
+492,Mobile Data,3G,Mobile,Low,MD + M
+493,Wifi,4G,Computer,High,W + C
+494,Mobile Data,4G,Mobile,Low,MD + M
+495,Wifi,4G,Mobile,Low,W + M
+496,Mobile Data,3G,Mobile,Low,MD + M
+497,Wifi,3G,Mobile,Moderate,W + M
+498,Wifi,4G,Computer,Moderate,W + C
+499,Wifi,4G,Computer,Moderate,W + C
+500,Wifi,4G,Mobile,Low,W + M
+501,Wifi,4G,Mobile,Low,W + M
+502,Wifi,4G,Mobile,Low,W + M
+503,Wifi,3G,Computer,Low,W + C
+504,Mobile Data,4G,Mobile,Low,MD + M
+505,Mobile Data,2G,Mobile,Low,MD + M
+506,Wifi,4G,Mobile,High,W + M
+507,Mobile Data,4G,Mobile,Moderate,MD + M
+508,Wifi,4G,Mobile,Low,W + M
+509,Mobile Data,4G,Mobile,Moderate,MD + M
+510,Wifi,4G,Mobile,Low,W + M
+511,Wifi,4G,Tab,Moderate,W + T
+512,Wifi,4G,Mobile,Low,W + M
+513,Mobile Data,4G,Mobile,Moderate,MD + M
+514,Mobile Data,2G,Mobile,Low,MD + M
+515,Mobile Data,3G,Mobile,Moderate,MD + M
+516,Mobile Data,4G,Mobile,Low,MD + M
+517,Wifi,4G,Computer,High,W + C
+518,Wifi,4G,Mobile,Low,W + M
+519,Mobile Data,4G,Mobile,Moderate,MD + M
+520,Mobile Data,3G,Mobile,Low,MD + M
+521,Mobile Data,3G,Mobile,Low,MD + M
+522,Mobile Data,3G,Mobile,Low,MD + M
+523,Wifi,3G,Mobile,Moderate,W + M
+524,Mobile Data,4G,Mobile,Low,MD + M
+525,Wifi,4G,Tab,Moderate,W + T
+526,Mobile Data,3G,Mobile,Moderate,MD + M
+527,Wifi,4G,Computer,Moderate,W + C
+528,Wifi,4G,Mobile,Moderate,W + M
+529,Mobile Data,3G,Mobile,Moderate,MD + M
+530,Wifi,4G,Mobile,Moderate,W + M
+531,Mobile Data,4G,Mobile,Low,MD + M
+532,Mobile Data,4G,Mobile,Low,MD + M
+533,Mobile Data,3G,Mobile,Moderate,MD + M
+534,Wifi,4G,Mobile,Moderate,W + M
+535,Wifi,3G,Computer,Moderate,W + C
+536,Mobile Data,4G,Mobile,Moderate,MD + M
+537,Mobile Data,3G,Mobile,Low,MD + M
+538,Wifi,4G,Mobile,Low,W + M
+539,Mobile Data,4G,Mobile,Moderate,MD + M
+540,Wifi,4G,Mobile,Moderate,W + M
+541,Mobile Data,4G,Mobile,Moderate,MD + M
+542,Mobile Data,4G,Mobile,Moderate,MD + M
+543,Wifi,4G,Mobile,Moderate,W + M
+544,Mobile Data,4G,Mobile,Moderate,MD + M
+545,Mobile Data,4G,Mobile,Moderate,MD + M
+546,Mobile Data,3G,Mobile,High,MD + M
+547,Wifi,4G,Mobile,Moderate,W + M
+548,Wifi,4G,Mobile,Low,W + M
+549,Mobile Data,3G,Computer,Moderate,MD + C
+550,Mobile Data,3G,Mobile,Moderate,MD + M
+551,Mobile Data,4G,Mobile,Low,MD + M
+552,Wifi,4G,Mobile,Moderate,W + M
+553,Mobile Data,4G,Mobile,Moderate,MD + M
+554,Mobile Data,3G,Computer,Moderate,MD + C
+555,Mobile Data,3G,Mobile,Moderate,MD + M
+556,Mobile Data,4G,Mobile,Low,MD + M
+557,Wifi,2G,Mobile,Moderate,W + M
+558,Mobile Data,3G,Mobile,Low,MD + M
+559,Mobile Data,4G,Mobile,Moderate,MD + M
+560,Wifi,4G,Mobile,High,W + M
+561,Wifi,4G,Mobile,Moderate,W + M
+562,Mobile Data,4G,Mobile,Moderate,MD + M
+563,Mobile Data,3G,Mobile,Low,MD + M
+564,Mobile Data,3G,Mobile,Low,MD + M
+565,Wifi,3G,Computer,Moderate,W + C
+566,Wifi,4G,Mobile,Low,W + M
+567,Mobile Data,4G,Mobile,Moderate,MD + M
+568,Mobile Data,3G,Mobile,Moderate,MD + M
+569,Mobile Data,4G,Mobile,Moderate,MD + M
+570,Mobile Data,3G,Mobile,Moderate,MD + M
+571,Mobile Data,3G,Mobile,Moderate,MD + M
+572,Wifi,4G,Computer,High,W + C
+573,Mobile Data,4G,Mobile,Low,MD + M
+574,Mobile Data,3G,Mobile,Low,MD + M
+575,Mobile Data,4G,Mobile,Low,MD + M
+576,Mobile Data,3G,Mobile,Low,MD + M
+577,Wifi,4G,Mobile,Low,W + M
+578,Wifi,3G,Mobile,Moderate,W + M
+579,Wifi,4G,Mobile,Moderate,W + M
+580,Mobile Data,3G,Computer,Low,MD + C
+581,Wifi,4G,Computer,Low,W + C
+582,Mobile Data,2G,Mobile,Low,MD + M
+583,Mobile Data,4G,Mobile,Moderate,MD + M
+584,Wifi,4G,Computer,High,W + C
+585,Wifi,2G,Tab,Low,W + T
+586,Mobile Data,3G,Mobile,Low,MD + M
+587,Wifi,4G,Computer,Moderate,W + C
+588,Wifi,3G,Mobile,Low,W + M
+589,Wifi,4G,Mobile,Moderate,W + M
+590,Mobile Data,4G,Mobile,Moderate,MD + M
+591,Mobile Data,4G,Mobile,Low,MD + M
+592,Wifi,4G,Computer,High,W + C
+593,Wifi,3G,Computer,Low,W + C
+594,Mobile Data,4G,Mobile,Moderate,MD + M
+595,Wifi,4G,Mobile,Low,W + M
+596,Wifi,4G,Mobile,Moderate,W + M
+597,Mobile Data,4G,Mobile,Moderate,MD + M
+598,Mobile Data,4G,Mobile,Moderate,MD + M
+599,Wifi,4G,Mobile,Low,W + M
+600,Mobile Data,4G,Mobile,Low,MD + M
+601,Mobile Data,4G,Mobile,Low,MD + M
+602,Wifi,4G,Tab,Moderate,W + T
+603,Mobile Data,3G,Mobile,Low,MD + M
+604,Mobile Data,3G,Mobile,Moderate,MD + M
+605,Mobile Data,4G,Mobile,Moderate,MD + M
+606,Wifi,4G,Mobile,High,W + M
+607,Mobile Data,4G,Mobile,Low,MD + M
+608,Mobile Data,3G,Mobile,Moderate,MD + M
+609,Wifi,4G,Mobile,Low,W + M
+610,Mobile Data,4G,Mobile,Low,MD + M
+611,Mobile Data,4G,Mobile,Moderate,MD + M
+612,Wifi,4G,Computer,Moderate,W + C
+613,Wifi,4G,Mobile,Low,W + M
+614,Mobile Data,3G,Mobile,Low,MD + M
+615,Mobile Data,3G,Mobile,High,MD + M
+616,Mobile Data,4G,Mobile,Moderate,MD + M
+617,Mobile Data,3G,Mobile,Low,MD + M
+618,Mobile Data,4G,Mobile,Low,MD + M
+619,Wifi,4G,Computer,High,W + C
+620,Mobile Data,4G,Mobile,High,MD + M
+621,Mobile Data,3G,Mobile,Moderate,MD + M
+622,Mobile Data,3G,Mobile,Moderate,MD + M
+623,Mobile Data,4G,Mobile,Moderate,MD + M
+624,Mobile Data,4G,Mobile,Low,MD + M
+625,Wifi,4G,Computer,Low,W + C
+626,Wifi,4G,Mobile,Low,W + M
+627,Wifi,4G,Mobile,High,W + M
+628,Wifi,4G,Mobile,High,W + M
+629,Wifi,4G,Mobile,Moderate,W + M
+630,Mobile Data,3G,Mobile,Moderate,MD + M
+631,Wifi,4G,Mobile,Moderate,W + M
+632,Mobile Data,4G,Mobile,Moderate,MD + M
+633,Mobile Data,3G,Mobile,Low,MD + M
+634,Wifi,3G,Mobile,Low,W + M
+635,Mobile Data,4G,Mobile,Moderate,MD + M
+636,Wifi,4G,Mobile,Low,W + M
+637,Mobile Data,4G,Mobile,Moderate,MD + M
+638,Mobile Data,4G,Mobile,Moderate,MD + M
+639,Mobile Data,3G,Mobile,Moderate,MD + M
+640,Mobile Data,4G,Mobile,High,MD + M
+641,Mobile Data,4G,Mobile,Moderate,MD + M
+642,Wifi,4G,Mobile,Low,W + M
+643,Wifi,4G,Mobile,High,W + M
+644,Wifi,4G,Mobile,Low,W + M
+645,Mobile Data,3G,Mobile,Moderate,MD + M
+646,Mobile Data,4G,Mobile,Low,MD + M
+647,Mobile Data,4G,Mobile,Moderate,MD + M
+648,Mobile Data,4G,Mobile,High,MD + M
+649,Wifi,4G,Mobile,Moderate,W + M
+650,Mobile Data,3G,Mobile,Low,MD + M
+651,Mobile Data,4G,Mobile,Moderate,MD + M
+652,Mobile Data,4G,Mobile,Low,MD + M
+653,Mobile Data,4G,Mobile,Low,MD + M
+654,Wifi,4G,Computer,Low,W + C
+655,Mobile Data,3G,Mobile,Moderate,MD + M
+656,Wifi,4G,Mobile,High,W + M
+657,Wifi,4G,Mobile,Low,W + M
+658,Mobile Data,3G,Mobile,Low,MD + M
+659,Wifi,4G,Mobile,Low,W + M
+660,Wifi,4G,Mobile,Moderate,W + M
+661,Mobile Data,4G,Mobile,Moderate,MD + M
+662,Mobile Data,3G,Mobile,Low,MD + M
+663,Mobile Data,3G,Mobile,Moderate,MD + M
+664,Mobile Data,4G,Mobile,Moderate,MD + M
+665,Mobile Data,3G,Mobile,Moderate,MD + M
+666,Wifi,4G,Mobile,Low,W + M
+667,Wifi,4G,Mobile,Moderate,W + M
+668,Wifi,4G,Computer,Low,W + C
+669,Mobile Data,3G,Mobile,Moderate,MD + M
+670,Wifi,4G,Mobile,Low,W + M
+671,Wifi,4G,Mobile,Low,W + M
+672,Wifi,4G,Mobile,Low,W + M
+673,Wifi,4G,Computer,Moderate,W + C
+674,Wifi,4G,Mobile,Low,W + M
+675,Mobile Data,4G,Mobile,Moderate,MD + M
+676,Mobile Data,3G,Computer,Moderate,MD + C
+677,Mobile Data,4G,Mobile,Low,MD + M
+678,Mobile Data,4G,Mobile,Moderate,MD + M
+679,Mobile Data,4G,Mobile,Moderate,MD + M
+680,Wifi,4G,Computer,Low,W + C
+681,Mobile Data,3G,Mobile,High,MD + M
+682,Wifi,4G,Mobile,Moderate,W + M
+683,Wifi,4G,Mobile,Moderate,W + M
+684,Mobile Data,3G,Mobile,Low,MD + M
+685,Wifi,4G,Mobile,Low,W + M
+686,Wifi,4G,Mobile,Moderate,W + M
+687,Wifi,3G,Mobile,Low,W + M
+688,Wifi,4G,Mobile,Moderate,W + M
+689,Wifi,4G,Computer,High,W + C
+690,Wifi,4G,Computer,Moderate,W + C
+691,Mobile Data,3G,Mobile,Moderate,MD + M
+692,Wifi,4G,Computer,Moderate,W + C
+693,Wifi,4G,Mobile,Moderate,W + M
+694,Mobile Data,3G,Mobile,Low,MD + M
+695,Mobile Data,4G,Mobile,Moderate,MD + M
+696,Mobile Data,3G,Mobile,Low,MD + M
+697,Wifi,3G,Computer,Low,W + C
+698,Mobile Data,4G,Mobile,Moderate,MD + M
+699,Wifi,4G,Mobile,Low,W + M
+700,Mobile Data,4G,Mobile,Moderate,MD + M
+701,Mobile Data,4G,Mobile,Low,MD + M
+702,Mobile Data,3G,Mobile,Low,MD + M
+703,Mobile Data,4G,Mobile,Low,MD + M
+704,Mobile Data,3G,Mobile,Low,MD + M
+705,Wifi,4G,Computer,Moderate,W + C
+706,Wifi,4G,Mobile,Moderate,W + M
+707,Mobile Data,4G,Mobile,Moderate,MD + M
+708,Mobile Data,3G,Mobile,Moderate,MD + M
+709,Mobile Data,4G,Mobile,Moderate,MD + M
+710,Wifi,4G,Mobile,Low,W + M
+711,Mobile Data,4G,Mobile,Low,MD + M
+712,Mobile Data,4G,Mobile,Low,MD + M
+713,Mobile Data,4G,Mobile,Moderate,MD + M
+714,Wifi,4G,Mobile,Low,W + M
+715,Mobile Data,3G,Mobile,Low,MD + M
+716,Wifi,3G,Mobile,High,W + M
+717,Mobile Data,4G,Mobile,Low,MD + M
+718,Mobile Data,3G,Mobile,Moderate,MD + M
+719,Mobile Data,3G,Mobile,Moderate,MD + M
+720,Mobile Data,4G,Mobile,Moderate,MD + M
+721,Mobile Data,4G,Mobile,Moderate,MD + M
+722,Mobile Data,3G,Mobile,Moderate,MD + M
+723,Mobile Data,3G,Mobile,Low,MD + M
+724,Wifi,4G,Mobile,Low,W + M
+725,Wifi,4G,Mobile,Moderate,W + M
+726,Mobile Data,3G,Mobile,Moderate,MD + M
+727,Mobile Data,3G,Mobile,Moderate,MD + M
+728,Mobile Data,3G,Mobile,Low,MD + M
+729,Mobile Data,4G,Mobile,Moderate,MD + M
+730,Wifi,3G,Mobile,Moderate,W + M
+731,Mobile Data,3G,Mobile,Moderate,MD + M
+732,Mobile Data,4G,Mobile,Moderate,MD + M
+733,Wifi,4G,Computer,High,W + C
+734,Mobile Data,4G,Mobile,Moderate,MD + M
+735,Wifi,4G,Mobile,High,W + M
+736,Mobile Data,4G,Mobile,Low,MD + M
+737,Wifi,4G,Computer,Moderate,W + C
+738,Mobile Data,4G,Mobile,Moderate,MD + M
+739,Mobile Data,4G,Mobile,Low,MD + M
+740,Wifi,4G,Tab,Moderate,W + T
+741,Mobile Data,4G,Mobile,Moderate,MD + M
+742,Wifi,4G,Mobile,Low,W + M
+743,Mobile Data,3G,Mobile,Low,MD + M
+744,Mobile Data,3G,Mobile,Moderate,MD + M
+745,Wifi,4G,Mobile,Low,W + M
+746,Wifi,3G,Mobile,Moderate,W + M
+747,Wifi,4G,Mobile,Moderate,W + M
+748,Mobile Data,4G,Mobile,High,MD + M
+749,Mobile Data,3G,Mobile,Moderate,MD + M
+750,Mobile Data,4G,Mobile,Moderate,MD + M
+751,Mobile Data,4G,Mobile,Moderate,MD + M
+752,Wifi,4G,Mobile,Moderate,W + M
+753,Mobile Data,3G,Mobile,Low,MD + M
+754,Wifi,2G,Mobile,Moderate,W + M
+755,Wifi,4G,Mobile,Low,W + M
+756,Wifi,3G,Computer,Moderate,W + C
+757,Wifi,3G,Mobile,Low,W + M
+758,Mobile Data,4G,Mobile,Moderate,MD + M
+759,Mobile Data,4G,Mobile,Low,MD + M
+760,Wifi,4G,Mobile,Low,W + M
+761,Wifi,4G,Mobile,Low,W + M
+762,Wifi,4G,Computer,Moderate,W + C
+763,Mobile Data,3G,Mobile,Low,MD + M
+764,Wifi,4G,Computer,Moderate,W + C
+765,Mobile Data,3G,Mobile,Moderate,MD + M
+766,Wifi,4G,Mobile,Low,W + M
+767,Mobile Data,4G,Mobile,Moderate,MD + M
+768,Wifi,4G,Mobile,Moderate,W + M
+769,Wifi,4G,Mobile,High,W + M
+770,Mobile Data,4G,Mobile,Moderate,MD + M
+771,Wifi,4G,Computer,Moderate,W + C
+772,Wifi,2G,Tab,Low,W + T
+773,Wifi,4G,Mobile,Low,W + M
+774,Wifi,3G,Mobile,Low,W + M
+775,Wifi,4G,Mobile,Moderate,W + M
+776,Mobile Data,3G,Mobile,Moderate,MD + M
+777,Wifi,4G,Mobile,Low,W + M
+778,Mobile Data,3G,Mobile,Low,MD + M
+779,Wifi,4G,Mobile,Moderate,W + M
+780,Wifi,4G,Computer,Moderate,W + C
+781,Mobile Data,3G,Mobile,Moderate,MD + M
+782,Mobile Data,4G,Mobile,Low,MD + M
+783,Wifi,4G,Computer,Moderate,W + C
+784,Mobile Data,4G,Mobile,Low,MD + M
+785,Wifi,4G,Computer,Moderate,W + C
+786,Wifi,4G,Mobile,Low,W + M
+787,Mobile Data,3G,Mobile,Moderate,MD + M
+788,Wifi,4G,Mobile,High,W + M
+789,Wifi,4G,Computer,Moderate,W + C
+790,Mobile Data,4G,Mobile,Low,MD + M
+791,Mobile Data,4G,Mobile,Moderate,MD + M
+792,Mobile Data,3G,Mobile,Low,MD + M
+793,Mobile Data,3G,Mobile,Low,MD + M
+794,Mobile Data,4G,Mobile,Low,MD + M
+795,Mobile Data,3G,Mobile,Moderate,MD + M
+796,Mobile Data,3G,Mobile,Moderate,MD + M
+797,Mobile Data,4G,Mobile,Moderate,MD + M
+798,Mobile Data,4G,Mobile,Moderate,MD + M
+799,Wifi,4G,Computer,Moderate,W + C
+800,Wifi,4G,Computer,Moderate,W + C
+801,Wifi,4G,Mobile,Moderate,W + M
+802,Wifi,4G,Computer,Low,W + C
+803,Mobile Data,4G,Mobile,Moderate,MD + M
+804,Mobile Data,3G,Mobile,Low,MD + M
+805,Mobile Data,3G,Mobile,Low,MD + M
+806,Wifi,4G,Mobile,Moderate,W + M
+807,Mobile Data,4G,Mobile,Moderate,MD + M
+808,Wifi,4G,Tab,Moderate,W + T
+809,Wifi,4G,Computer,Moderate,W + C
+810,Wifi,4G,Computer,High,W + C
+811,Wifi,4G,Mobile,Moderate,W + M
+812,Wifi,4G,Mobile,Moderate,W + M
+813,Mobile Data,3G,Mobile,Low,MD + M
+814,Mobile Data,3G,Mobile,High,MD + M
+815,Mobile Data,3G,Mobile,Low,MD + M
+816,Mobile Data,4G,Mobile,Moderate,MD + M
+817,Mobile Data,3G,Mobile,Low,MD + M
+818,Mobile Data,4G,Mobile,Low,MD + M
+819,Mobile Data,3G,Mobile,Low,MD + M
+820,Mobile Data,4G,Mobile,Moderate,MD + M
+821,Mobile Data,3G,Mobile,Moderate,MD + M
+822,Mobile Data,4G,Mobile,High,MD + M
+823,Wifi,4G,Tab,Moderate,W + T
+824,Mobile Data,3G,Mobile,Low,MD + M
+825,Mobile Data,3G,Mobile,Moderate,MD + M
+826,Wifi,4G,Computer,Moderate,W + C
+827,Wifi,4G,Computer,Moderate,W + C
+828,Wifi,4G,Computer,Moderate,W + C
+829,Mobile Data,4G,Mobile,Moderate,MD + M
+830,Mobile Data,4G,Mobile,Low,MD + M
+831,Mobile Data,3G,Mobile,Low,MD + M
+832,Mobile Data,3G,Mobile,Moderate,MD + M
+833,Mobile Data,4G,Mobile,Moderate,MD + M
+834,Wifi,3G,Computer,Low,W + C
+835,Mobile Data,3G,Mobile,Moderate,MD + M
+836,Mobile Data,4G,Mobile,Moderate,MD + M
+837,Wifi,4G,Mobile,Moderate,W + M
+838,Mobile Data,4G,Mobile,Moderate,MD + M
+839,Mobile Data,3G,Mobile,Low,MD + M
+840,Wifi,4G,Mobile,Moderate,W + M
+841,Wifi,4G,Mobile,High,W + M
+842,Mobile Data,3G,Mobile,Low,MD + M
+843,Wifi,3G,Computer,Moderate,W + C
+844,Mobile Data,4G,Mobile,High,MD + M
+845,Mobile Data,4G,Mobile,Moderate,MD + M
+846,Wifi,4G,Tab,Moderate,W + T
+847,Wifi,4G,Mobile,Low,W + M
+848,Mobile Data,3G,Mobile,High,MD + M
+849,Mobile Data,3G,Mobile,Moderate,MD + M
+850,Mobile Data,3G,Mobile,Moderate,MD + M
+851,Mobile Data,3G,Mobile,Low,MD + M
+852,Mobile Data,3G,Mobile,Moderate,MD + M
+853,Mobile Data,3G,Mobile,Low,MD + M
+854,Mobile Data,4G,Mobile,Low,MD + M
+855,Mobile Data,4G,Mobile,Low,MD + M
+856,Wifi,3G,Mobile,Low,W + M
+857,Mobile Data,3G,Mobile,Moderate,MD + M
+858,Wifi,4G,Mobile,Moderate,W + M
+859,Wifi,4G,Mobile,Low,W + M
+860,Mobile Data,4G,Mobile,Low,MD + M
+861,Wifi,4G,Mobile,Moderate,W + M
+862,Mobile Data,4G,Mobile,Low,MD + M
+863,Mobile Data,3G,Mobile,Low,MD + M
+864,Wifi,4G,Mobile,Low,W + M
+865,Mobile Data,4G,Mobile,Moderate,MD + M
+866,Mobile Data,3G,Mobile,Low,MD + M
+867,Mobile Data,3G,Mobile,Moderate,MD + M
+868,Mobile Data,3G,Mobile,Moderate,MD + M
+869,Mobile Data,3G,Mobile,Moderate,MD + M
+870,Wifi,4G,Mobile,Moderate,W + M
+871,Wifi,4G,Tab,Moderate,W + T
+872,Wifi,4G,Mobile,Moderate,W + M
+873,Mobile Data,3G,Mobile,Low,MD + M
+874,Wifi,4G,Mobile,Moderate,W + M
+875,Wifi,4G,Mobile,Moderate,W + M
+876,Mobile Data,3G,Mobile,Moderate,MD + M
+877,Wifi,4G,Mobile,Low,W + M
+878,Mobile Data,3G,Mobile,Low,MD + M
+879,Mobile Data,4G,Mobile,Moderate,MD + M
+880,Wifi,4G,Tab,Moderate,W + T
+881,Wifi,4G,Mobile,Low,W + M
+882,Mobile Data,3G,Mobile,Low,MD + M
+883,Mobile Data,4G,Mobile,Moderate,MD + M
+884,Wifi,4G,Computer,Moderate,W + C
+885,Mobile Data,4G,Mobile,Moderate,MD + M
+886,Mobile Data,4G,Mobile,Moderate,MD + M
+887,Mobile Data,3G,Mobile,Moderate,MD + M
+888,Wifi,4G,Computer,Moderate,W + C
+889,Mobile Data,3G,Mobile,Moderate,MD + M
+890,Wifi,3G,Computer,Moderate,W + C
+891,Wifi,4G,Computer,Moderate,W + C
+892,Wifi,3G,Mobile,Moderate,W + M
+893,Mobile Data,3G,Mobile,Moderate,MD + M
+894,Mobile Data,3G,Mobile,Low,MD + M
+895,Wifi,4G,Computer,Moderate,W + C
+896,Wifi,4G,Mobile,Low,W + M
+897,Mobile Data,4G,Mobile,Moderate,MD + M
+898,Wifi,4G,Computer,Low,W + C
+899,Wifi,4G,Computer,Moderate,W + C
+900,Wifi,4G,Computer,Moderate,W + C
+901,Mobile Data,4G,Mobile,Moderate,MD + M
+902,Wifi,4G,Mobile,Low,W + M
+903,Mobile Data,3G,Mobile,Moderate,MD + M
+904,Mobile Data,4G,Mobile,High,MD + M
+905,Wifi,4G,Mobile,High,W + M
+906,Wifi,3G,Mobile,Low,W + M
+907,Mobile Data,4G,Mobile,Moderate,MD + M
+908,Wifi,4G,Mobile,Moderate,W + M
+909,Wifi,4G,Mobile,Low,W + M
+910,Mobile Data,4G,Mobile,Moderate,MD + M
+911,Wifi,4G,Computer,Low,W + C
+912,Mobile Data,4G,Mobile,Moderate,MD + M
+913,Mobile Data,4G,Mobile,Moderate,MD + M
+914,Mobile Data,3G,Mobile,Low,MD + M
+915,Mobile Data,4G,Mobile,Moderate,MD + M
+916,Mobile Data,4G,Mobile,Moderate,MD + M
+917,Mobile Data,4G,Mobile,Moderate,MD + M
+918,Wifi,4G,Computer,High,W + C
+919,Mobile Data,4G,Mobile,Moderate,MD + M
+920,Mobile Data,3G,Mobile,Moderate,MD + M
+921,Mobile Data,3G,Mobile,Moderate,MD + M
+922,Wifi,3G,Computer,Moderate,W + C
+923,Mobile Data,4G,Mobile,Low,MD + M
+924,Wifi,3G,Mobile,High,W + M
+925,Mobile Data,4G,Mobile,Moderate,MD + M
+926,Mobile Data,3G,Mobile,Low,MD + M
+927,Mobile Data,4G,Mobile,Moderate,MD + M
+928,Mobile Data,3G,Mobile,Low,MD + M
+929,Wifi,4G,Mobile,Moderate,W + M
+930,Mobile Data,3G,Mobile,Moderate,MD + M
+931,Mobile Data,3G,Mobile,Moderate,MD + M
+932,Mobile Data,3G,Mobile,Low,MD + M
+933,Wifi,3G,Computer,Moderate,W + C
+934,Mobile Data,2G,Mobile,Low,MD + M
+935,Wifi,4G,Tab,Moderate,W + T
+936,Wifi,4G,Tab,High,W + T
+937,Mobile Data,3G,Mobile,Low,MD + M
+938,Mobile Data,3G,Mobile,Moderate,MD + M
+939,Wifi,4G,Mobile,High,W + M
+940,Mobile Data,3G,Mobile,Low,MD + M
+941,Mobile Data,3G,Mobile,Low,MD + M
+942,Wifi,4G,Mobile,Low,W + M
+943,Mobile Data,4G,Mobile,High,MD + M
+944,Wifi,4G,Computer,Moderate,W + C
+945,Wifi,4G,Mobile,Moderate,W + M
+946,Wifi,4G,Mobile,Moderate,W + M
+947,Mobile Data,4G,Mobile,Moderate,MD + M
+948,Wifi,4G,Mobile,Low,W + M
+949,Wifi,4G,Mobile,Moderate,W + M
+950,Wifi,3G,Mobile,Low,W + M
+951,Wifi,4G,Computer,Low,W + C
+952,Wifi,3G,Mobile,Moderate,W + M
+953,Wifi,4G,Mobile,Moderate,W + M
+954,Wifi,3G,Mobile,High,W + M
+955,Mobile Data,3G,Mobile,Low,MD + M
+956,Mobile Data,4G,Mobile,High,MD + M
+957,Mobile Data,4G,Mobile,Moderate,MD + M
+958,Mobile Data,3G,Mobile,Low,MD + M
+959,Wifi,4G,Tab,Moderate,W + T
+960,Wifi,4G,Mobile,Low,W + M
+961,Wifi,4G,Tab,Moderate,W + T
+962,Wifi,4G,Computer,High,W + C
+963,Wifi,4G,Mobile,Moderate,W + M
+964,Wifi,4G,Mobile,Moderate,W + M
+965,Wifi,4G,Mobile,Moderate,W + M
+966,Mobile Data,4G,Mobile,Low,MD + M
+967,Wifi,4G,Mobile,Low,W + M
+968,Mobile Data,4G,Mobile,Moderate,MD + M
+969,Mobile Data,4G,Mobile,Moderate,MD + M
+970,Wifi,4G,Mobile,Moderate,W + M
+971,Mobile Data,3G,Mobile,Low,MD + M
+972,Wifi,4G,Mobile,Low,W + M
+973,Mobile Data,4G,Mobile,Moderate,MD + M
+974,Mobile Data,3G,Mobile,Low,MD + M
+975,Mobile Data,4G,Mobile,Moderate,MD + M
+976,Wifi,4G,Mobile,Moderate,W + M
+977,Mobile Data,4G,Mobile,Low,MD + M
+978,Mobile Data,2G,Mobile,Low,MD + M
+979,Mobile Data,4G,Mobile,Moderate,MD + M
+980,Mobile Data,4G,Mobile,Moderate,MD + M
+981,Mobile Data,4G,Mobile,Moderate,MD + M
+982,Mobile Data,3G,Mobile,Low,MD + M
+983,Wifi,3G,Mobile,Moderate,W + M
+984,Mobile Data,3G,Mobile,Low,MD + M
+985,Mobile Data,3G,Mobile,Moderate,MD + M
+986,Mobile Data,4G,Mobile,Moderate,MD + M
+987,Mobile Data,4G,Mobile,High,MD + M
+988,Mobile Data,4G,Mobile,Low,MD + M
+989,Mobile Data,4G,Mobile,Low,MD + M
+990,Wifi,4G,Mobile,Low,W + M
+991,Wifi,4G,Computer,Low,W + C
+992,Mobile Data,4G,Mobile,Low,MD + M
+993,Wifi,4G,Computer,Low,W + C
+994,Mobile Data,3G,Mobile,Low,MD + M
+995,Mobile Data,4G,Mobile,High,MD + M
+996,Mobile Data,4G,Mobile,Low,MD + M
+997,Mobile Data,4G,Mobile,Moderate,MD + M
+998,Wifi,4G,Mobile,Low,W + M
+999,Mobile Data,4G,Mobile,Moderate,MD + M
+1000,Wifi,4G,Mobile,Low,W + M
+1001,Wifi,4G,Mobile,Moderate,W + M
+1002,Mobile Data,3G,Mobile,Moderate,MD + M
+1003,Mobile Data,4G,Mobile,Moderate,MD + M
+1004,Mobile Data,4G,Mobile,Moderate,MD + M
+1005,Mobile Data,3G,Mobile,Moderate,MD + M
+1006,Wifi,4G,Computer,Moderate,W + C
+1007,Mobile Data,4G,Mobile,Moderate,MD + M
+1008,Mobile Data,4G,Mobile,Moderate,MD + M
+1009,Wifi,4G,Mobile,Low,W + M
+1010,Wifi,4G,Computer,Moderate,W + C
+1011,Mobile Data,3G,Mobile,Moderate,MD + M
+1012,Mobile Data,2G,Mobile,Low,MD + M
+1013,Wifi,4G,Mobile,Low,W + M
+1014,Mobile Data,4G,Mobile,Low,MD + M
+1015,Wifi,4G,Mobile,Moderate,W + M
+1016,Mobile Data,3G,Mobile,Low,MD + M
+1017,Mobile Data,4G,Mobile,Moderate,MD + M
+1018,Mobile Data,4G,Mobile,Low,MD + M
+1019,Mobile Data,3G,Mobile,Moderate,MD + M
+1020,Wifi,4G,Tab,Moderate,W + T
+1021,Mobile Data,3G,Computer,Moderate,MD + C
+1022,Mobile Data,4G,Mobile,Moderate,MD + M
+1023,Mobile Data,4G,Mobile,Low,MD + M
+1024,Wifi,4G,Computer,Moderate,W + C
+1025,Mobile Data,4G,Mobile,High,MD + M
+1026,Wifi,4G,Computer,Low,W + C
+1027,Mobile Data,4G,Mobile,Low,MD + M
+1028,Mobile Data,3G,Mobile,Low,MD + M
+1029,Wifi,4G,Mobile,Moderate,W + M
+1030,Wifi,3G,Mobile,Low,W + M
+1031,Wifi,3G,Mobile,High,W + M
+1032,Wifi,4G,Mobile,Low,W + M
+1033,Mobile Data,4G,Mobile,High,MD + M
+1034,Wifi,4G,Computer,Moderate,W + C
+1035,Wifi,4G,Mobile,Low,W + M
+1036,Wifi,4G,Mobile,Low,W + M
+1037,Wifi,4G,Mobile,Moderate,W + M
+1038,Mobile Data,3G,Mobile,Low,MD + M
+1039,Wifi,3G,Mobile,High,W + M
+1040,Wifi,4G,Mobile,Low,W + M
+1041,Wifi,4G,Tab,Moderate,W + T
+1042,Mobile Data,3G,Mobile,Moderate,MD + M
+1043,Mobile Data,3G,Mobile,Low,MD + M
+1044,Wifi,4G,Mobile,Moderate,W + M
+1045,Mobile Data,3G,Computer,Low,MD + C
+1046,Wifi,4G,Tab,Moderate,W + T
+1047,Mobile Data,4G,Mobile,Moderate,MD + M
+1048,Mobile Data,4G,Mobile,Moderate,MD + M
+1049,Mobile Data,3G,Mobile,Moderate,MD + M
+1050,Mobile Data,4G,Mobile,Moderate,MD + M
+1051,Wifi,3G,Mobile,Moderate,W + M
+1052,Wifi,4G,Mobile,Moderate,W + M
+1053,Wifi,4G,Mobile,Low,W + M
+1054,Mobile Data,4G,Mobile,Low,MD + M
+1055,Mobile Data,3G,Mobile,Low,MD + M
+1056,Wifi,4G,Tab,Moderate,W + T
+1057,Wifi,4G,Mobile,Low,W + M
+1058,Wifi,4G,Computer,Moderate,W + C
+1059,Wifi,4G,Mobile,Low,W + M
+1060,Mobile Data,4G,Mobile,Low,MD + M
+1061,Mobile Data,3G,Computer,Moderate,MD + C
+1062,Wifi,3G,Computer,Moderate,W + C
+1063,Wifi,4G,Computer,Moderate,W + C
+1064,Mobile Data,3G,Mobile,Moderate,MD + M
+1065,Wifi,4G,Computer,High,W + C
+1066,Mobile Data,3G,Mobile,Low,MD + M
+1067,Wifi,4G,Mobile,Low,W + M
+1068,Mobile Data,3G,Mobile,Moderate,MD + M
+1069,Wifi,3G,Mobile,Moderate,W + M
+1070,Wifi,4G,Computer,Moderate,W + C
+1071,Mobile Data,4G,Mobile,High,MD + M
+1072,Wifi,4G,Mobile,High,W + M
+1073,Wifi,3G,Mobile,Low,W + M
+1074,Mobile Data,3G,Mobile,Moderate,MD + M
+1075,Wifi,4G,Computer,Low,W + C
+1076,Mobile Data,4G,Mobile,High,MD + M
+1077,Mobile Data,4G,Mobile,Moderate,MD + M
+1078,Mobile Data,3G,Mobile,Moderate,MD + M
+1079,Mobile Data,2G,Mobile,Low,MD + M
+1080,Mobile Data,3G,Mobile,Low,MD + M
+1081,Wifi,4G,Mobile,Moderate,W + M
+1082,Wifi,4G,Mobile,Moderate,W + M
+1083,Mobile Data,4G,Mobile,Moderate,MD + M
+1084,Mobile Data,3G,Mobile,Moderate,MD + M
+1085,Wifi,4G,Mobile,Moderate,W + M
+1086,Mobile Data,4G,Mobile,Low,MD + M
+1087,Mobile Data,4G,Mobile,Moderate,MD + M
+1088,Mobile Data,4G,Mobile,Low,MD + M
+1089,Mobile Data,3G,Mobile,Low,MD + M
+1090,Mobile Data,3G,Mobile,Moderate,MD + M
+1091,Mobile Data,3G,Mobile,Low,MD + M
+1092,Mobile Data,3G,Mobile,Low,MD + M
+1093,Wifi,4G,Mobile,Moderate,W + M
+1094,Mobile Data,4G,Mobile,Low,MD + M
+1095,Wifi,4G,Computer,High,W + C
+1096,Wifi,3G,Mobile,Moderate,W + M
+1097,Wifi,4G,Mobile,Low,W + M
+1098,Wifi,4G,Mobile,Moderate,W + M
+1099,Wifi,3G,Mobile,Moderate,W + M
+1100,Wifi,4G,Mobile,Low,W + M
+1101,Mobile Data,4G,Mobile,Moderate,MD + M
+1102,Wifi,4G,Mobile,Moderate,W + M
+1103,Mobile Data,3G,Mobile,Moderate,MD + M
+1104,Mobile Data,3G,Mobile,Moderate,MD + M
+1105,Wifi,4G,Mobile,Moderate,W + M
+1106,Wifi,3G,Mobile,High,W + M
+1107,Mobile Data,3G,Mobile,Moderate,MD + M
+1108,Mobile Data,3G,Mobile,Low,MD + M
+1109,Mobile Data,4G,Mobile,Moderate,MD + M
+1110,Wifi,3G,Mobile,Moderate,W + M
+1111,Mobile Data,3G,Mobile,Moderate,MD + M
+1112,Mobile Data,3G,Mobile,Low,MD + M
+1113,Mobile Data,3G,Mobile,Low,MD + M
+1114,Wifi,3G,Mobile,High,W + M
+1115,Mobile Data,3G,Mobile,Low,MD + M
+1116,Mobile Data,4G,Mobile,Moderate,MD + M
+1117,Mobile Data,4G,Mobile,Moderate,MD + M
+1118,Wifi,4G,Mobile,Moderate,W + M
+1119,Mobile Data,3G,Mobile,Moderate,MD + M
+1120,Mobile Data,4G,Mobile,Moderate,MD + M
+1121,Mobile Data,4G,Mobile,Moderate,MD + M
+1122,Wifi,4G,Mobile,Moderate,W + M
+1123,Wifi,4G,Tab,Moderate,W + T
+1124,Mobile Data,3G,Computer,Low,MD + C
+1125,Wifi,4G,Mobile,Moderate,W + M
+1126,Mobile Data,3G,Computer,Low,MD + C
+1127,Mobile Data,4G,Mobile,Low,MD + M
+1128,Wifi,4G,Mobile,Moderate,W + M
+1129,Mobile Data,3G,Mobile,Moderate,MD + M
+1130,Wifi,4G,Mobile,Low,W + M
+1131,Wifi,4G,Mobile,Low,W + M
+1132,Mobile Data,3G,Mobile,Moderate,MD + M
+1133,Mobile Data,4G,Mobile,Moderate,MD + M
+1134,Wifi,4G,Mobile,Low,W + M
+1135,Wifi,4G,Computer,Moderate,W + C
+1136,Wifi,4G,Computer,Moderate,W + C
+1137,Wifi,4G,Mobile,Moderate,W + M
+1138,Mobile Data,3G,Mobile,Moderate,MD + M
+1139,Wifi,4G,Mobile,Low,W + M
+1140,Mobile Data,3G,Mobile,Moderate,MD + M
+1141,Mobile Data,3G,Mobile,High,MD + M
+1142,Mobile Data,4G,Mobile,Low,MD + M
+1143,Mobile Data,3G,Mobile,Low,MD + M
+1144,Wifi,4G,Mobile,Low,W + M
+1145,Wifi,4G,Tab,Moderate,W + T
+1146,Wifi,4G,Computer,Moderate,W + C
+1147,Mobile Data,4G,Mobile,Moderate,MD + M
+1148,Mobile Data,4G,Mobile,Moderate,MD + M
+1149,Mobile Data,3G,Mobile,Low,MD + M
+1150,Mobile Data,4G,Mobile,Low,MD + M
+1151,Wifi,4G,Mobile,Low,W + M
+1152,Mobile Data,4G,Mobile,Moderate,MD + M
+1153,Mobile Data,4G,Mobile,Moderate,MD + M
+1154,Mobile Data,3G,Computer,Low,MD + C
+1155,Mobile Data,4G,Mobile,Moderate,MD + M
+1156,Wifi,4G,Mobile,Moderate,W + M
+1157,Wifi,4G,Computer,High,W + C
+1158,Mobile Data,2G,Mobile,Low,MD + M
+1159,Mobile Data,3G,Mobile,Moderate,MD + M
+1160,Mobile Data,3G,Mobile,Moderate,MD + M
+1161,Mobile Data,3G,Mobile,Low,MD + M
+1162,Mobile Data,3G,Mobile,Moderate,MD + M
+1163,Mobile Data,4G,Mobile,Moderate,MD + M
+1164,Mobile Data,4G,Mobile,Moderate,MD + M
+1165,Mobile Data,3G,Mobile,Moderate,MD + M
+1166,Wifi,4G,Computer,Moderate,W + C
+1167,Mobile Data,4G,Mobile,Low,MD + M
+1168,Wifi,4G,Computer,Moderate,W + C
+1169,Mobile Data,3G,Mobile,Low,MD + M
+1170,Mobile Data,3G,Mobile,Moderate,MD + M
+1171,Wifi,4G,Mobile,High,W + M
+1172,Mobile Data,4G,Mobile,Low,MD + M
+1173,Mobile Data,4G,Mobile,Low,MD + M
+1174,Mobile Data,4G,Mobile,Moderate,MD + M
+1175,Mobile Data,3G,Mobile,Low,MD + M
+1176,Wifi,4G,Computer,High,W + C
+1177,Mobile Data,3G,Mobile,Low,MD + M
+1178,Mobile Data,4G,Mobile,Moderate,MD + M
+1179,Wifi,3G,Mobile,High,W + M
+1180,Mobile Data,4G,Mobile,Low,MD + M
+1181,Mobile Data,4G,Mobile,Low,MD + M
+1182,Mobile Data,3G,Computer,Moderate,MD + C
+1183,Mobile Data,4G,Mobile,Low,MD + M
+1184,Mobile Data,3G,Mobile,Moderate,MD + M
+1185,Mobile Data,3G,Mobile,Low,MD + M
+1186,Mobile Data,3G,Mobile,Moderate,MD + M
+1187,Wifi,4G,Mobile,Low,W + M
+1188,Wifi,4G,Mobile,Moderate,W + M
+1189,Wifi,4G,Mobile,Low,W + M
+1190,Wifi,3G,Mobile,Moderate,W + M
+1191,Mobile Data,3G,Mobile,Moderate,MD + M
+1192,Wifi,4G,Mobile,Low,W + M
+1193,Wifi,4G,Computer,High,W + C
+1194,Mobile Data,3G,Mobile,Low,MD + M
+1195,Wifi,4G,Computer,High,W + C
+1196,Mobile Data,3G,Mobile,Low,MD + M
+1197,Mobile Data,4G,Computer,Moderate,MD + C
+1198,Mobile Data,4G,Mobile,Low,MD + M
+1199,Wifi,4G,Computer,Low,W + C
+1200,Wifi,4G,Mobile,Low,W + M
+1201,Wifi,4G,Mobile,Moderate,W + M
+1202,Mobile Data,3G,Mobile,Moderate,MD + M
+1203,Wifi,4G,Mobile,Low,W + M
+1204,Mobile Data,3G,Mobile,Moderate,MD + M
