@@ -27,9 +27,7 @@ This dataset includes data collected between December 10, 2020, and February 5, 
 - **Ahmad Firdaus Azri:** A Beginner Data Science student who hopes his first project will be beneficial for his future adventures.
 ## Images
 
-{You should use this area to add a screenshot of an interesting plot, or of your dashboard}
-
-<img src ="images/test.png" width="200px">
+<img src ="images/ahmadPlot1.png" width="275px"> <img src ="images/ahmadPlot2.png" width="250px"> <img src ="images/ahmadDashboard.png" width="350px">
 
 ## References
 
