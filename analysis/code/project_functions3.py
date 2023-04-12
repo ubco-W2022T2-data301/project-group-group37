@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 def combineDeviceInternet(df):
     if((df["Internet Type"] == "Wifi") and (df["Device"] == "Computer")):
