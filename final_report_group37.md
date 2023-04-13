@@ -13,6 +13,8 @@ This process might be tiring but it was worth the time because it allows us to d
 <img src ="images/darvP0.png" width="500px"> <img src ="images/darvP1.png" width="500px">
 <img src ="images/darvP2.png" width="500px"> <img src ="images/darvP3.png" width="500px">
 
+Click [here](analysis/analysis1.ipnyb) to see detailed works for this question.
+
 ## Question 2: How does the maturity level of students affect their adaptability to online learning?
 
 Firstly, in this data set there are two columns that pertain to a person's maturity level, `Age` and `Education Level`, and it is assumed that as a person progresses in life, be it in terms of their age or education level, they can also be considered more mature.
@@ -28,6 +30,8 @@ From these two graphs we can see that there is a dip in `Adaptability Levels` of
 From this heatmap of average adaptability levels for students dipping in the same areas shown previously in the two barplots. We can also see that students within the 16-20 age group are people in all 3 education levels and all have approximately the same amount of difficulty regardless of which education level they are at, and college students between the age of 21-25 seem to struggle the most.
 
 From these graphs it appears that there is no direct correlation between students becoming more adaptable as they mature. However, when put into more context, the results would make more sense. Children under 16 usually have more guidance from their parents or guardians, which could make adapting easier, while people in the age group of 16-20 are usually being left to work independently for the first time, which could be a large hurdle to overcome, making adapting to the new environment more difficult. 
+
+Click [here](analysis/analysis2.ipnyb) to see detailed works for this question.
 
 ## Q3: What combination of Device and Internet Type produces the best adaptivity level of students to online classes? What is the worst?
 
@@ -71,5 +75,7 @@ This result answers our curiosity about how the same combination can be the best
 Is justified. 
 
 Moreover, this combination also happens to have the highest count for 2G network which is the slowest network in the dataset. So, this particular observation also supports the previously stated fact that it is the worst combination.
+
+Click [here](analysis/analysis3.ipnyb) to see detailed works for this question.
 
 ## Conclusion
