@@ -24,9 +24,9 @@ This dataset includes data collected between December 10, 2020, and February 5, 
 
 - **Darvesh Singh Dhillon:** I am a Data Science Minor and a Psychology Major so knowing how online education affected people is really interesting and right up my ally.
 
-- **Shawn Goh:** A CS major who somewhat interested in Data Science field. 
+- **Shawn Goh:** I am a Computer Science major who is interested in the Data Science field.
 
-- **Ahmad Firdaus Azri:** A Beginner Data Science student who hopes his first project will be beneficial for his future adventures
+- **Ahmad Firdaus Azri:** I am a beginner Data Science student who hopes his first project will be beneficial for his future projects.
 
 ## Images
 
