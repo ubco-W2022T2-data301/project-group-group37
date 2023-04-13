@@ -1,4 +1,6 @@
 # Data
 
-- `data/raw` - raw data should go in this directory; you should add the original source file here. Always keep the original data file without editing.
-- `data/processed` - You can add cleaned up, and processed data files in this directory.
+
+- [data/raw](raw/README.md) - Contains the original source file unedited.
+- [data/processed](processed/README.md) - Contains all cleaned up data, and processed files.
+

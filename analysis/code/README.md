@@ -1,3 +1,3 @@
 # Python Functions
 
-Place all your python functions in `.py` files within this directory.
+This directory contains all python functions used during our data analysis.
