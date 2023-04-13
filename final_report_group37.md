@@ -97,6 +97,6 @@ At this point, there are 3 conclusions that we can deduce, one for each question
 
 2. Students do become more adaptable to online learning as they get more mature after gaining independence.
 
-3. Mobile data and mobile phones become the best and the worst combination not because of their features, but due to the influence of what kind of network type these students get access to.
+3. Mobile data and mobile phones become the best and the worst combination not only because of their features, but also due to the influence of what kind of network type these students get access to.
 
 From all of the conclusions above, it is crystal clear that multiple variables have the capacity to influence one’s adaptivity level to online classes and as students ourselves, this is expected from early on. 
