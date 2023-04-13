@@ -33,7 +33,7 @@ From these graphs it appears that there is no direct correlation between student
 
 Click [here](analysis/analysis2.ipynb) to see detailed works for this question.
 
-## Q3: What combination of Device and Internet Type produces the best adaptivity level of students to online classes? What is the worst?
+## Q3: What combination of `Device` and `Internet Type` produces the best adaptivity level of students to online classes? What is the worst?
 
 - Best combination: Combination with the most count for **high** `Adaptivity Levels`
 - Worst combination: Combination with most count for **low** `Adaptivity Levels`
