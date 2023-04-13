@@ -32,7 +32,7 @@ This dataset includes data collected between December 10, 2020, and February 5, 
 
 ![image of Ahmed's Tableau Dashboard](images/ahmadDashboard.png)
 ![image of Darvesh's Tableau Dashboard](images/darvTableauDashboard.png)
-![Image of Shawn's Dashboard](images/shawnDashbord.png)
+![Image of Shawn's Dashboard](images/shawnDashboard.png)
 
 ## References
 
