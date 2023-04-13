@@ -79,3 +79,13 @@ Moreover, this combination also happens to have the highest count for 2G network
 Click [here](analysis/analysis3.ipynb) to see detailed works for this question.
 
 ## Conclusion
+
+At this point, there are 3 conclusions that we can deduce, one for each question:
+
+1. Most middle-class males who are 20 years of age or older are more likely to be able to adapt to new scenarios such as online learning when forced to do so.
+
+2. Students do become more adaptable to online learning as they get more mature after gaining independence.
+
+3. Mobile data and mobile phones become the best and the worst combination not because of their features, but due to the influence of what kind of network type these students get access to.
+
+From all of the conclusions above, it is crystal clear that multiple variables have the capacity to influence one’s adaptivity level to online classes and as students ourselves, this is expected from early on. 
