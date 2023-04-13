@@ -1,11 +1,11 @@
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
 
 
-
-
+def load_dataset(path):
+    df = (pd.read_csv(path)
+          .drop(["Education Level", "Institution Type", "IT Student", "Self Lms", "Load-shedding", "Internet Type", "Network Type", "Class Duration", "Device"], axis="columns"))
+    return df
 
 def convert_age_to_int(x):
     """Converts the age range (x) to an integer.
