@@ -11,9 +11,9 @@
 
 ## Describe your topic/interest in about 150-200 words
 
-We would like to train our data analytics skills and this project is the perfect moment to do so. By the end of it, we hope that our fundamental skills are good enough to prepare us for future data analytics projects in other courses or our own careers. As beginners, we would like to start with a dataset that is not too complicated but deep enough to do some analysis. 
-As students ourselves, we went through the same debacle with the COVID-19 pandemic and all of our classes moving to an online environment. Hence, we were interested in this dataset of people from Bangladesh measuring their students’ adaptability to the change to online education. 
-Furthermore, we wish to explore how different factors such as Socio-Economic status, Device ownership, and Maturity levels affect levels of adaptability in students and which factors matter more than others. 
+We would like to train our data analytics skills and this project is the perfect moment to do so. By the end of it, we hope that our fundamental skills are good enough to prepare us for future data analytics projects in other courses or our own careers. As beginners, we would like to start with a dataset that is not too complicated but deep enough to do some analysis.
+As students ourselves, we went through the same debacle with the COVID-19 pandemic and all of our classes moving to an online environment. Hence, we were interested in this dataset of people from Bangladesh measuring their students’ adaptability to the change to online education.
+Furthermore, we wish to explore how different factors such as Socio-Economic status, Device ownership, and Maturity levels affect levels of adaptability in students and which factors matter more than others.
 Besides, it is possible to produce a dashboard with this dataset and in general, we will certainly include charts and graphs such as a pie chart that visualize the proportion of students based on their adaptivity level (High, Moderate, Low) and other data visualization that help answer each of our research question(s).
 
 ## Describe your dataset in about 150-200 words
@@ -23,15 +23,17 @@ This dataset includes data collected between December 10, 2020, and February 5, 
 ## Team Members
 
 - **Darvesh Singh Dhillon:** I am a Data Science Minor and a Psychology Major so knowing how online education affected people is really interesting and right up my ally.
+
 - **Shawn Goh:** A CS major who somewhat interested in Data Science field. 
-- **Ahmad Firdaus Azri:** A Beginner Data Science student who hopes his first project will be beneficial for his future adventures.
+
+- **Ahmad Firdaus Azri:** A Beginner Data Science student who hopes his first project will be beneficial for his future adventures
+
 ## Images
 
-<img src ="images/ahmadPlot1.png" width="275px"> <img src ="images/ahmadPlot2.png" width="250px"> <img src ="images/ahmadDashboard.png" width="350px">
+![image of Ahmed's Tableau Dashboard](images/ahmadDashboard.png)
+![image of Darvesh's Tableau Dashboard](images/darvTableauDashboard.png)
+![Image of Shawn's Dashboard](images/shawnDashbord.png)
 
 ## References
 
 [Link to the original research paper](https://www.researchgate.net/publication/355891881_Students'_Adaptability_Level_Prediction_in_Online_Education_using_Machine_Learning_Approaches)
-
-
-
