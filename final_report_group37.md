@@ -6,7 +6,18 @@ This project is investigating multiple categorical variables that influence stud
 
 ## Exploratory Data Analysis
 
-This process might be tiring but it was worth the time because it allows us to discover which visualization answers the question the fastest and which one requires more work only to do the same task. Besides, it also happens that some of the visualizations are easier to get the punchline compared to the rest. For instance,...
+This process might be tiring but it was worth the time because it allows us to discover which visualization answers the question the fastest and which one requires more work only to do the same task. Besides, it also happens that some of the visualizations are easier to get the punchline compared to the rest. For instance, in [analysis 3](analysis/analysis3.ipynb), consider 2 plots below, 
+
+<img src ="images/ahmadPlot1.png" width="500px"> <img src ="images/ahmadPlot3.png" width="500px">
+
+Both of them are presenting counts of low, moderate and high `Adaptivity Levels` for each combination possible and the barplot (left) is better than pointplot (right) because it is easier to understand and faster for audience to get some insights from it. Compared to the pointplot, it is unclear to use it to answer the question: 
+
+**Which combination has the most count for high `Adaptivity Levels`?**
+
+because if we are looking at the blue lines (dedicated to high `Adaptivity Levels`), there are 3 points that are approximately on the same height. So, we cannot determine which combination has the most count for high `Adaptivity Levels` instantly. Unlike the barplot, we can straight away determine that combination of MD + M (Mobile data & Mobile phones) has the most count for high `Adaptivity Levels` as its bar for this criteria is the highest. 
+
+More examples of our exploratory data analysis can be found in [analysis 1](analysis/analysis1.ipynb), [analysis 2](analysis/analysis2.ipynb) and [analysis 3](analysis/analysis3.ipynb)
+
 
 ## Question 1: How does someone's Socio-Economic Condition affect their Educational Adaptability? In particular, their `Gender`, `Age`, and `Financial Condition`
 
